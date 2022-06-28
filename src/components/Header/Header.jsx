@@ -30,8 +30,8 @@ const Header = () => {
               class="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52 navbar-end"
             >
               <li>
-                <a>Home</a>
-              </li>
+              <NavLink to="/" >Home</NavLink>
+            </li>
               <li tabindex="0">
                 <a class="justify-between">
                   Activity
@@ -53,17 +53,17 @@ const Header = () => {
                     <NavLink to="/bookReview">Book Review</NavLink>
                   </li>
                 </ul>
-              </li>
+              </li> 
               <li>
                 <NavLink to="/blogs">Blogs</NavLink>
               </li>
               <li>
-                <NavLink to="/about me">About Me</NavLink>
-              </li>
+              <NavLink to="about">About Me</NavLink>
+            </li>
 
-              <li>
-                <NavLink to="/project">Project</NavLink>
-              </li>
+            <li>
+              <NavLink to="Projects">Projects</NavLink>
+            </li>
             </ul>
           </div>
 
@@ -120,10 +120,11 @@ const Header = () => {
 };
 
 export default Header;
-// echo "# DevOmarPortfolio" >> README.md
-// git init
-// git add README.md
-// git commit -m "first commit"
-// git branch -M main
-// git remote add origin https://github.com/omarfarukesham/DevOmarPortfolio.git
-// git push -u origin main
+
+
+
+
+
+
+
+

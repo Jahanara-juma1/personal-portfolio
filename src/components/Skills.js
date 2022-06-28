@@ -12,7 +12,7 @@ const Skills = () => {
                     <div className='mx-auto' >
                         <h1 className='text-2xl font-bold mt-10'> <i class="fa-solid fa-rocket text-2xl text-primary pr-3"></i>Programming Skills</h1>
                         <p className='py-2 '><span className='font-bold'>Front-End</span> - Javascript, ReactJs, HTML5, CSS3, Bootstrap, Tailwind</p>
-                        <p className='py-2'><span className='font-bold'>Back-End </span> - Nodejs, Express, MongoDB, Strive(Payment Gateway),ReactQuery</p>
+                        <p className='py-2'><span className='font-bold'>Back-End </span> - Nodejs, Express, MongoDB, ReactQuery</p>
                         <p className='py-2'><span className='font-bold'>Web-Security</span> - Firebase Authentication,</p>
                         <p className='py-2'><span className='font-bold'>Popular Tools</span> -,Heroku, Netlify, ReactAuth Hooks</p>
                     </div>
