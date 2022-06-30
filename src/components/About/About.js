@@ -14,7 +14,7 @@ const About = () => {
                 <div className="counter">
 
                     <div className="box">
-                        <span>12+</span>
+                        <span>11+</span>
                         <h3>porject completed</h3>
                     </div>
 

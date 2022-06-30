@@ -43,7 +43,7 @@ const Banner = () => {
           </a>
         </div>
         <div className='h-[60vh] shrink-0' data-aos="fade-in" data-aos-duration="2000">
-          <img src="https://i.ibb.co/zZTT0RH/shape-5-1.png" class='h-full rounded-xl' alt='' />
+          <img src="https://i.ibb.co/D9s3zFx/shape-4-2.png" class='h-full rounded-xl' alt='' />
         </div>
       </div>
     </div>

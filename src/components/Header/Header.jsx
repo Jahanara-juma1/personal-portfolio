@@ -54,9 +54,11 @@ const Header = () => {
                   </li>
                 </ul>
               </li> 
+
               <li>
                 <NavLink to="/blogs">Blogs</NavLink>
               </li>
+
               <li>
               <NavLink to="about">About Me</NavLink>
             </li>
@@ -71,9 +73,11 @@ const Header = () => {
         </div>
         <div class="navbar-center hidden lg:flex navbar-end">
           <ul class="menu menu-horizontal p-0 ">
+
             <li>
               <NavLink to="/" >Home</NavLink>
             </li>
+
             <li>
               <NavLink to="blogs" >Blogs</NavLink>
             </li>
@@ -81,6 +85,7 @@ const Header = () => {
             <li>
               <NavLink to="Projects">Projects</NavLink>
             </li>
+
             <li>
               <NavLink to="about">About Me</NavLink>
             </li>
@@ -91,7 +96,7 @@ const Header = () => {
 
               </ul>
             </li>
-
+           
 
             <label class='swap swap-rotate'>
               <input type='checkbox' onClick={() => setDark(!dark)} />

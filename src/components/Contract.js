@@ -33,7 +33,7 @@ const Contract = () => {
 
                 <div className="content">
 
-                    <h3 className="title">contact info</h3>
+                    <h3 className="title text-bold">contact info</h3>
 
                     <div className="info">
                         <h3> <i className="fas fa-envelope"></i> jahanarajuma213@gmail.com </h3>

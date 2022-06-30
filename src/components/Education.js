@@ -1,3 +1,4 @@
+import { hasPointerEvents } from '@testing-library/user-event/dist/utils';
 import React from 'react';
 
 const Education = () => {
@@ -37,10 +38,10 @@ const Education = () => {
                             <img src="https://static.vecteezy.com/system/resources/previews/003/241/296/non_2x/webinar-online-training-tutor-icon-vector.jpg" />
                         </div>
                     </div>
+
                     <div class="card-body text-center">
                         <h2 class="text-2xl font-bold text-secondary">Complete Web Development</h2>
                         <p>Programming Hero(Bangladesh)</p>
-
 
                     </div>
                 </div>

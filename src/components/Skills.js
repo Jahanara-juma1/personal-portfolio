@@ -3,8 +3,6 @@ import React from 'react';
 const Skills = () => {
     return (
         <>
-
-
             <div className='mt-10 bg-base-200 text-black' id='skills'>
 
                 <div class=" text-center font-bold text-4xl text-primary py-10"><i class="fa-solid fa-gear px-2"></i> Skills </div>
@@ -74,7 +72,6 @@ const Skills = () => {
 
                 </div>
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2'>
-
 
                 </div>
 

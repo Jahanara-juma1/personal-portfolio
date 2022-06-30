@@ -6,6 +6,11 @@
     padding:2rem 0;
 }
 
+/* .header.hover{
+    margin-top: top;
+    padding-left: 100;
+} */
+
 .portfolio .box-container .box{
     height: 20rem;
     width:26rem;
@@ -28,10 +33,6 @@
 
 @media (max-width:400px){
 
-    /* header{
-        width: 100vw;
-    } */
-
     .heading{
         margin:0 3rem;
     }
@@ -52,3 +53,4 @@
         margin:3rem 0;
     }
 }
+
